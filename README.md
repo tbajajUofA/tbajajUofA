@@ -23,7 +23,7 @@
 
 ## **About me**
 
-I’m **Tejinder Bajaj** — I build **practical software** and dabble in **software dev**, **web dev**, **data analysis**, and **ML engineering**.
+I’m **Tejinder Bajaj** — I dabble in **software dev**, **web dev**, **data analysis**, and **ML engineering**, with a focus on **practical software**, **clean code**, **automation**, and **shipping**.
 
 **What I like working on:**
 - **Apps** that feel fast + polished
@@ -85,4 +85,3 @@ I’m **Tejinder Bajaj** — I build **practical software** and dabble in **soft
 <p align="center">
   <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" style="filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));" />
 </p>
-
