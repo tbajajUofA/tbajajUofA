@@ -1,11 +1,11 @@
 # **Tejinder Bajaj**
 
 <p align="center">
-  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=header" />
+  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=header" style="filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));" />
 </p>
 
 <p align="center">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=FF1B1B&center=true&vCenter=true&width=900&lines=Tejinder+Bajaj;Software+Developer+%7C+Builder;Black+%26+Red+Energy+%E2%80%94+Always+Shipping" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=FF1B1B&center=true&vCenter=true&width=900&lines=Tejinder+Bajaj;Software+Developer+%7C+Builder;Black+%26+Red+Energy+%E2%80%94+Always+Shipping;pizza+time%21" />
 </p>
 
 <p align="center">
@@ -18,12 +18,12 @@
 </p>
 
 <p align="center">
-  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
+  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" style="filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));" />
 </p>
 
 ## **About me**
 
-I’m **Tejinder Bajaj** — I build **practical software** with a focus on **clean code**, **automation**, and **shipping**.
+I’m **Tejinder Bajaj** — I dabble in **software dev**, **web dev**, **data analysis**, and **ML engineering**, with a focus on **practical software**, **clean code**, **automation**, and **shipping**.
 
 **What I like working on:**
 - **Apps** that feel fast + polished
@@ -31,12 +31,12 @@ I’m **Tejinder Bajaj** — I build **practical software** with a focus on **cl
 - **Projects** with real users / real outcomes
 
 <p align="center">
-  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
+  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" style="filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));" />
 </p>
 
 # **Skills & Tools**
 <p align="center">
-  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
+  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" style="filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));" />
 </p>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-FF1B1B?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,6 +60,22 @@ I’m **Tejinder Bajaj** — I build **practical software** with a focus on **cl
 </p>
 
 <p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-FF1B1B?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-FF1B1B?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-FF1B1B?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-FF1B1B?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF1B1B?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FF1B1B?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+<p>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-FF1B1B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-FF1B1B?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF1B1B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-FF1B1B?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+<p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-FF1B1B?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-FF1B1B?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-FF1B1B?style=for-the-badge&logo=git&logoColor=white" />
@@ -67,7 +83,5 @@ I’m **Tejinder Bajaj** — I build **practical software** with a focus on **cl
 </p>
 
 <p align="center">
-  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
+  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" style="filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.35));" />
 </p>
-
-
