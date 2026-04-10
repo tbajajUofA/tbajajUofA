@@ -34,8 +34,10 @@ I’m **Tejinder Bajaj** — I build **practical software** with a focus on **cl
   <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
 </p>
 
-## **Skills & Tools**
-
+# **Skills & Tools**
+<p align="center">
+  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
+</p>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-FF1B1B?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FF1B1B?style=for-the-badge&logo=javascript&logoColor=white" />
