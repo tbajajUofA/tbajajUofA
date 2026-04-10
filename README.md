@@ -68,17 +68,4 @@ I’m **Tejinder Bajaj** — I build **practical software** with a focus on **cl
   <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
 </p>
 
-## **Featured projects**
 
-- **block2redirect** — Chrome extension that redirects you to something productive.  
-  - Repo: https://github.com/tbajajUofA/block2redirect
-
-- **WholeLottaPosts** — Python project for generating/handling lots of posts.  
-  - Repo: https://github.com/tbajajUofA/WholeLottaPosts
-
-- **Indeed.com Android app** — Android app project.  
-  - Repo: *(link coming soon)*
-
-<p align="center">
-  <img alt="Red divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
-</p>
