@@ -17,7 +17,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img alt="Shadow divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
+</p>
 
 ## **About me**
 
@@ -28,7 +30,9 @@ I’m **Tejinder Bajaj** — I build **practical software** with a focus on **cl
 - **Automations & scripts** that save time
 - **Projects** with real users / real outcomes
 
----
+<p align="center">
+  <img alt="Shadow divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
+</p>
 
 ## **Skills & Tools**
 
@@ -46,22 +50,6 @@ I’m **Tejinder Bajaj** — I build **practical software** with a focus on **cl
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FF1B1B?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117" />
 </p>
 
----
-
-## **Featured projects**
-
-> The projects I’m most excited to show off right now.
-
-- **block2redirect** — Chrome extension that redirects you to something productive.
-  - Repo: https://github.com/tbajajUofA/block2redirect
-
-- **WholeLottaPosts** — Python project for generating/handling lots of posts.
-  - Repo: https://github.com/tbajajUofA/WholeLottaPosts
-
-- **Indeed.com Android app** — Android app project.
-  - Repo: *(link coming soon)*
-
----
 
 <p align="center">
   <img alt="Shadow divider" src="https://capsule-render.vercel.app/api?type=rect&color=FF1B1B&height=10&section=footer" />
