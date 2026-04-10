@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=FF1B1B&center=true&vCenter=true&width=900&lines=Tejinder+Bajaj;Software+Developer+%7C+Builder;Black+%26+Red+Energy+%E2%80%94+Always+Shipping;pizza+time%21" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=FF1B1B&center=true&vCenter=true&width=900&lines=Tejinder+Bajaj;Software+Developer;Black+%26+Red+Energy;pizza+time%21" />
 </p>
 
 <p align="center">
