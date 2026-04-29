@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=FF1B1B&center=true&vCenter=true&width=900&lines=Tejinder+Bajaj;Software+Developer;Black+%26+Red+Energy;pizza+time%21" />
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=850&color=FF1B1B&center=true&vCenter=true&width=900&lines=Tejinder+Bajaj;Software+Developer;hiiiiiiiiiiiiiiiiiiiii;pizza+time%21" />
 </p>
 
 <p align="center">
@@ -23,7 +23,8 @@
 
 ## **About me**
 
-I’m **Tejinder Bajaj** — I dabble in **software dev**, **web dev**, **data analysis**, and **ML engineering**, with a focus on **practical software**, **clean code**, **automation**, and **shipping**.
+I’m **Tejinder Bajaj** (Tj is fine too!)
+I dabble in **software dev**, **web dev**, **data analysis**, and **ML engineering**, with a focus on **practical software**, **automation**, and **shipping**.
 
 **What I like working on:**
 - **Apps** that feel fast + polished
