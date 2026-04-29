@@ -23,7 +23,7 @@
 
 ## **About me**
 
-I’m **Tejinder Bajaj** (Tj is fine too!)
+### I’m **Tejinder Bajaj** (Tj is fine too!)
 I dabble in **software dev**, **web dev**, **data analysis**, and **ML engineering**, with a focus on **practical software**, **automation**, and **shipping**.
 
 **What I like working on:**
